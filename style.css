@@ -1,72 +1,98 @@
 body {
-  width: 100vw;
-  height: 100vh;
   display: grid;
-  align-items: center;
   justify-content: center;
-  
+  Font size: 5px;
+font-family: 'Poppins', sans-serif;
+  font-Weights: 200, 400, 700;
+
+
 
 }
-.cards {
+.super  {
+  font-size: 80px;
+}
+.cards  {
   display: grid;
-
+ 
 }
-.child-card{
-  border: 20px;
-  padding: 50px 5px;
 
-}
 
 
 .main-nav {
   line-height: 40px;
-  font-size: 20px;
+  width: 360px;
+  font-size: 2px;
   font-weight: 200px;
   text-align: center;
+  font-stretch: 50px;
 }
 .sub-nav{
   line-height: 30px;
-  font-size: 20px;
-  font-family: "xanh mono";
+  font-size: 18px;
+  font-family: 'poppins', sans-serif;
+  font-weight: 0.5px;
+  font-stretch: 50px;
+  font-style: 41px;
 }
 .middle-main{
+  width: 350px;
   line-height: 25px;
-    font-family: "Montserrat";
+  font-family: 'Poppins', sans-serif;
      text-align: center;
-    font-size: 20px;
+    font-size: 15px;
+    font-style: 41px; 
+
+}
+.child-card{
+  border: 20px;
+  padding: 50px 2px;
+  width: 300px;
+
 }
 
 .card-01  {
   display: grid;
-  grid-row-gap: 25px;
+  grid-row-gap: 60px;
 }
 .card{
-  display: grid;
-  grid-template-columns: 350px;
-  grid-template-rows: 2px 100px 100px;
+   display: grid;
+  grid-template-rows: 0.5px 115px 100px;
   grid-template-areas: "color" "text" "image";
 
-  font-family: roboto;
+
+ font-family: 'Poppins', sans-serif;
   border-image: 18px;
-  box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+  border-radius: 10px;
+   box-shadow: 3px 3px 5px 6px #ccc;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+
 }
 
 .card-color{
   grid-area: color;
-  background: blue;
+  align-items:  center;
+  background: #2ab9b3;
+  padding: 2px;
+  border-radius:50px;
+  
+  
+
 }
 .card-text{
   grid-area: text;
   border: 10px;
   padding: 30px;
-  font-weight: faint;
-  line-height: 25px;
+  line-height: 20px;
+  font-style: 41px; 
+  font-weight: 0.1;
 }
 
 .card-image{
   grid-image: grid-image;
   text-align: end;
-  padding: 30px;
+  padding: 40px;
+  border-radius: 20;
+
+  
 
 }
 
@@ -75,20 +101,24 @@ body {
 
 .card-1{
   display: grid;
-  grid-template-columns: 350px;
-  grid-template-rows: 2px 100px 100px;
+  grid-template-rows: 0.5px 115px 105px;
   grid-template-areas: "color" "text" "image";
 
-  font-family: roboto;
+ font-family: 'Poppins', sans-serif;
   border-image: 18px;
-  box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
-  transition: 0.8s;
-  
+  border-radius: 10px;
+   box-shadow: 3px 3px 5px 6px #ccc;  
 }
 
 .card-color1{
   grid-area: color;
-  background: red;
+  align-items:  center;
+  background: #b41859;
+  width: 330px;
+  margin: 0px;
+  padding: 2px;
+  border-radius:50px;
+  
 }
 .card-text1{
   grid-area: text;
@@ -103,51 +133,31 @@ body {
   padding: 30px;
 }
 
-.card-2{
-  display: grid;
-  grid-template-columns: 350px;
-  grid-template-rows: 2px 100px 100px;
-  grid-template-areas: "color" "text" "image";
 
-  font-family: roboto;
-  border-image: 18px;
-  box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
-  transition: 0.8s;
-  
-}
 
-.card-color2{
-  grid-area: color;
-  background: green;
-}
-.card-text2{
-  grid-area: text;
-  line-height: 25px;
-  font-weight: faint;
-  line-height: 25px;
-}
-
-.card-image2{
-  grid-image: grid-image;
-  text-align: end;
-}
 
 .card-3{
   display: grid;
-  grid-template-columns: 350px;
-  grid-template-rows: 2px 100px 100px;
+  grid-template-rows: 0.5px 115px 100px;
   grid-template-areas: "color" "text" "image";
 
-  font-family: roboto;
+font-family: 'Poppins', sans-serif;
   border-image: 18px;
-  box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
-  transition: 0.8s;
+  border-radius: 40px;
+    border-radius: 10px;
+   box-shadow: 3px 3px 5px 6px #ccc; 
   
 }
 
 .card-color3{
   grid-area: color;
-  background: pink;
+  align-items:  center;
+  background: #ff7600;
+  width: 330px;
+  margin: 0px;
+  padding: 2px;
+  border-radius:50px;
+  
 }
 .card-text3{
   grid-area: text;
@@ -165,19 +175,24 @@ body {
 
 .card-4{
   display: grid;
-  grid-template-columns: 350px;
-  grid-template-rows: 2px 100px 100px;
+  grid-template-rows: 0.5px 115px 100px;
   grid-template-areas: "color" "text" "image";
 
-  font-family: roboto;
+font-family: 'Poppins', sans-serif;
   border-image: 18px;
-  box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
-  
+   border-radius: 10px;
+   box-shadow: 3px 3px 5px 6px #ccc;   
 }
 
 .card-color4{
   grid-area: color;
-  background: blue;
+  align-items:  center;
+  background: #1d52ff;
+  width: 330px;
+  margin: 0px;
+  padding: 2px;
+  border-radius:50px;
+  
 }
 .card-text4{
   grid-area: text;

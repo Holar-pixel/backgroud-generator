@@ -1,0 +1,519 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"gr",
+				"grid-template-rows"
+			],
+			[
+				"grid",
+				"grid-gap\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"b",
+				"border\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"au",
+				"auto-fill"
+			],
+			[
+				"grid-te",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"m",
+				"meta\tTag"
+			],
+			[
+				"gri",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"map",
+				"maparray"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"usr",
+				"username"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"new",
+				"newArray"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"is",
+				"isValidAge"
+			],
+			[
+				"fir",
+				"firstName"
+			],
+			[
+				"fi",
+				"firstName"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"last",
+				"lastName"
+			],
+			[
+				"var",
+				"var"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"mo",
+				"moveCommand"
+			],
+			[
+				"h",
+				"highest"
+			],
+			[
+				"hi",
+				"Highest"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"obje",
+				"object4"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"fl",
+				"flex-basis\tproperty"
+			],
+			[
+				"fle",
+				"inline-flex\tdisplay"
+			],
+			[
+				"widt",
+				"min-width\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"wi",
+				"min-width\tproperty"
+			],
+			[
+				"f",
+				"inline-flex\tdisplay"
+			],
+			[
+				"flex",
+				"flex-basis\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"st",
+				"sticky\tposition"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"background",
+				"background-position\tproperty"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"rgb",
+				"rgba()\tcolor"
+			],
+			[
+				"borde",
+				"border-color\tproperty"
+			],
+			[
+				"my",
+				"my-auto"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"onm",
+				"onmouseover\tAttr"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package contr",
+				"Install Package Control"
+			],
+			[
+				"PAC",
+				"View Package File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 202.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/9. CSS Grid + CSS Layout/7.1 style.css.css",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/9. CSS Grid + CSS Layout/new nav bar.html",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/9. CSS Grid + CSS Layout/7.3 index.html.html",
+		"/C/Users/LENOVO/Desktop/inner peace.jpg",
+		"/C/Users/LENOVO/Desktop/com intelligent.jpg",
+		"/C/Users/LENOVO/Desktop/inner world.jpg",
+		"/C/Users/LENOVO/Desktop/8.3 header.jpg.jpg",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/9. CSS Grid + CSS Layout/new.css",
+		"/C/Users/LENOVO/Desktop/waitbutwhy.html",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/9. CSS Grid + CSS Layout/Nav bar.html",
+		"/C/Users/LENOVO/Desktop/background.htm",
+		"/C/Users/LENOVO/Desktop/index.html",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/9. CSS Grid + CSS Layout/navBar.html",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/9. CSS Grid + CSS Layout/nav.css",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/9. CSS Grid + CSS Layout/nav stlye.css",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/13. Advanced Javascript/10.1 exercise5-SOLUTIONS (1).js.js",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/12. DOM Manipulation/3.1 DOM selectors.txt.txt",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/13. Advanced Javascript/10.2 exercise5.js.js",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/13. Advanced Javascript/12.2 exercise6.js.js",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/13. Advanced Javascript/12.1 exercise6 SOLUTIONS.js.js",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/11. Javascript/22.1 SectionOutline.txt.txt",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/11. Javascript/9.1 exercise4.txt.txt",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/12. DOM Manipulation/6.2 script.js.js",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/13. Advanced Javascript/6.1 exercise3.js.js",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/13. Advanced Javascript/6.2 exercise3-SOLUTIONS.js.js",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/13. Advanced Javascript/8.2 exercise4.js.js",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/13. Advanced Javascript/4.2 exercise2-SOLUTIONS.js.js",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/13. Advanced Javascript/8.1 exercise4-SOLUTIONS.js.js",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/13. Advanced Javascript/4.1 exercise2.js.js",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/11. Javascript/6.2 exercise2.txt.txt",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/11. Javascript/6.1 exercise2 SOLUTIONS.txt.txt",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/11. Javascript/7.2 exercise3.txt.txt",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/13. Advanced Javascript/2.1 exercise1.js.js",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/13. Advanced Javascript/2.2 exercise1-SOLUTIONS.js.js",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/13. Advanced Javascript/19.1 advanced looping exercise.js.js",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/13. Advanced Javascript/24. Extra Javascript Practice.html",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/13. Advanced Javascript/19.2 advanced-looping-solution.js.js",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/13. Advanced Javascript/14.1 exerciseES7-SOLUTIONS.js.js",
+		"/C/Users/LENOVO/Desktop/inner.html",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/13. Advanced Javascript/14.2 exerciseES7.js.js",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/30. Bonus Part 2 + Extras/3. Ask Me Anything 1.vtt",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/29. Where To Go From Here/5. My Advice On Being a Junior Developer.html",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/22. APIs/2. Exercise Web App Using Star Wars API.html",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/22. APIs/1. Introduction to APIs.mp4",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/22. APIs/1. Introduction to APIs.vtt",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/14. Command Line/2. Exercise Practice Using The Terminal.html",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/15. Developer Environment/5. Resources Customizing Terminal.html",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/16. Git + Github + Open Source Projects/8.1 git-started-guide.pdf.pdf",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/17. A Day In The Life Of A Developer/3. A Developer's Morning Routine.html",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/18. NPM + NPM Scripts/2. Setting Up NPM and package.json.vtt",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/18. NPM + NPM Scripts/3. For Windows Users.html",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/18. NPM + NPM Scripts/4. Troubleshoot Installing NPM and Node.js.html",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/11. Javascript/13. Data Structures Arrays.mp4",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/11. Javascript/9.2 exercise4-SOLUTIONS.txt.txt",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/11. Javascript/12.2 exercise5.txt.txt",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/11. Javascript/12.1 exercise5 SOLUTIONS.js.js",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/9. CSS Grid + CSS Layout/14.1 No shoot.html",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/9. CSS Grid + CSS Layout/7.2 CSS Grid Cheat Sheet.html",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/9. CSS Grid + CSS Layout/3.1 style.css.css",
+		"/C/Users/LENOVO/Desktop/download.jpg",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/8. Bootstrap 4, Templates, And Building Your Startup Landing Page/8.2 index.html.html",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/8. Bootstrap 4, Templates, And Building Your Startup Landing Page/8.1 style.css.css",
+		"/C/Users/LENOVO/Desktop/stlye.css",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/8. Bootstrap 4, Templates, And Building Your Startup Landing Page/5.3 index.html.html",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/8. Bootstrap 4, Templates, And Building Your Startup Landing Page/8.3 header.jpg.jpg",
+		"/C/Users/LENOVO/Desktop/com intelligence.htm",
+		"/C/Users/LENOVO/Desktop/intelligence.htm",
+		"/C/Users/LENOVO/Desktop/stlye2.css",
+		"/C/Users/LENOVO/Desktop/login.html",
+		"/C/Users/LENOVO/Desktop/brain.jpg",
+		"/C/Users/LENOVO/Desktop/index2.html",
+		"/C/Users/LENOVO/Desktop/style.css",
+		"/C/Users/LENOVO/Videos/Udemy - The Complete Web Developer in 2019 Zero to Mastery 2018-12/14. Command Line/1. Using The Terminal.vtt",
+		"/C/Users/LENOVO/Downloads/1. Document Object Model.vtt",
+		"/C/Users/LENOVO/Desktop/index2",
+		"/C/Users/LENOVO/Downloads/material-dashboard-master.zip",
+		"/C/Users/LENOVO/Downloads/4. Terminal.vtt"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"}",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style-guide.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\LENOVO\\Downloads\\1. Document Object Model.vtt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
